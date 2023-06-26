@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,16 +20,16 @@ namespace calculadora
                 Console.WriteLine("Digite o primeiro numero, tecle Enter ´para continuar");
                 Console.WriteLine("Digite a operação e tecle Enter: +, -, *, / ");
                 Console.WriteLine("Digite o segundo numero, tecle Enter para continuar");
-                num1 = int.Parse(Console.Read());
-                ope = Convert.ToChar(Console.Read());
-                num2= int.Parse(Console.Read());
+                num1 = int.Parse(Console.ReadLine());
+                ope = Convert.ToChar(Console.ReadLine());
+                num2 = int.Parse(Console.ReadLine());
 
-             
+
                 switch (ope)
                 {
                     case '+':
-                        result = num1+ num2;
-                        Console.WriteLine("Resultado: {0}", result); 
+                        result = num1 + num2;
+                        Console.WriteLine("Resultado: {0}", result);
                         break;
                     case '-':
                         result = num1 - num2;
@@ -74,7 +74,7 @@ namespace calculadora
             } while (continuar);
         }
 
-    static void cabecalho()
+        static void cabecalho()
         {
             Console.WriteLine("***** CALCULADORA C# *****");
             Console.WriteLine("\n");
