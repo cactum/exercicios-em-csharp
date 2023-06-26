@@ -13,3 +13,18 @@ C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Som
 C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\Soma e Media\obj\Debug\net6.0\Soma e Media.pdb
 C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\Soma e Media\obj\Debug\net6.0\Soma e Media.genruntimeconfig.cache
 C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\Soma e Media\obj\Debug\net6.0\ref\Soma e Media.dll
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\bin\Debug\net6.0\Soma e Media.exe
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\bin\Debug\net6.0\Soma e Media.deps.json
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\bin\Debug\net6.0\Soma e Media.runtimeconfig.json
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\bin\Debug\net6.0\Soma e Media.dll
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\bin\Debug\net6.0\Soma e Media.pdb
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.AssemblyInfo.cs
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.dll
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\refint\Soma e Media.dll
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.pdb
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\Soma e Media.genruntimeconfig.cache
+C:\Users\ander\Documents\GitHub\exercicios\exercicios-em-csharp\soma e media\Soma e Media\obj\Debug\net6.0\ref\Soma e Media.dll

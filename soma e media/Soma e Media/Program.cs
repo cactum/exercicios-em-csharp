@@ -36,7 +36,7 @@ namespace Soma_e_Media
             Console.WriteLine($"A soma dos números é: {resultado}");
 
             int media = resultado / i;
-            Console.WriteLine("A media é {0}", media);
+            Console.WriteLine($"A media é {media}");
 
 
             Console.ReadKey();
