@@ -12,6 +12,9 @@ namespace dado
     {
         static void Main(string[] args)
         {
+            bool continuar = true;
+            int i = 0, j =0;
+
             Jogador j1 = new Jogador();
             Console.WriteLine("Digite o nome do Primeiro Jogador");
             j1.nome = Console.ReadLine();
@@ -20,10 +23,7 @@ namespace dado
             Console.WriteLine("Digite o nome do segundo Jogador");
             j2.nome = Console.ReadLine();
 
-            bool continuar = true;
-            int i = 0;
-            do
-            {
+           do {
                 Console.WriteLine("Iniciando a rodada nº{0}", i + 1);
                 Console.WriteLine("Jogador {0} tecle Enter para rolar os dados", j1.nome);
                 Console.ReadKey();
@@ -48,17 +48,30 @@ namespace dado
 
             } while (continuar);
 
+            Console.WriteLine("Total de pontos {0}:", j1.nome);
+            j1.CalcSomanumArmazenado();
+
+            Console.WriteLine("Total de pontos {0}:", j2.nome);
+            j2.CalcSomanumArmazenado();
         }
 
         public class Jogador
         {
             public string nome = "";
+            private List <int> numArmazenado = new List<int>();
 
             public void dados()
             {
                 Random random = new Random();
                 int numeroAleatorio = random.Next(1, 6);
+                numArmazenado.Add(numeroAleatorio);
                 Console.WriteLine(numeroAleatorio);
+            }
+            
+            public void CalcSomanumArmazenado()
+            {
+                int somaTotal = numArmazenado.Sum();
+                Console.WriteLine("Soma total dos dados jogados {0}", somaTotal);
             }
 
         }
