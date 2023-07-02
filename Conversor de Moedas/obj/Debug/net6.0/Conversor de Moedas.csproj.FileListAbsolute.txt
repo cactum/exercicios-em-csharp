@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\bin\Debug\net6.0\Conversor de Moedas.exe
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\bin\Debug\net6.0\Conversor de Moedas.deps.json
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\bin\Debug\net6.0\Conversor de Moedas.runtimeconfig.json
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\bin\Debug\net6.0\Conversor de Moedas.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\bin\Debug\net6.0\Conversor de Moedas.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\refint\Conversor de Moedas.dll
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\Conversor de Moedas.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Área de Trabalho\Exercicios C#\Conversor de Moedas\obj\Debug\net6.0\ref\Conversor de Moedas.dll
